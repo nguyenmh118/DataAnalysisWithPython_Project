@@ -14,10 +14,10 @@ Apply Machine Learning in predicting online purchasing intention of customers ba
 
 
 -- Author Information
-This is a final project report for the Data Analysis course using Python.
-Topic: Building a model to analyze factors influencing customers' purchase intention and predicting their purchase intention.
-Group members: Ho Thi Minh Nguyen, Nguyen Chi Bao, Vo Ngoc Tuong Vy, Nguyen Ngoc Yen Nhi, Trinh Thi Minh Khai
-Instructor: PhD. Nguyen Phat Dat.
+1. This is a final project report for the Data Analysis course using Python.
+2. Topic: Building a model to analyze factors influencing customers' purchase intention and predicting their purchase intention.
+3. Group members: Ho Thi Minh Nguyen, Nguyen Chi Bao, Vo Ngoc Tuong Vy, Nguyen Ngoc Yen Nhi, Trinh Thi Minh Khai
+4. Instructor: PhD. Nguyen Phat Dat.
 
 -- on Colab:
 https://colab.research.google.com/drive/1LWey5wG2Zh061iJBtHYkuGzjVFOCZD1S
