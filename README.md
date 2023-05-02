@@ -7,10 +7,9 @@ Developing a model to analyze the factors influencing customers' purchase intent
 Apply Machine Learning in predicting online purchasing intention of customers based on 18 features collected from an e-commerce website. The dataset was obtained from the UCI Machine Learning Repository.
 
 --Process
-1. The team trained and tested four algorithms: Naive Bayes, K-nearest neighbor, Decision Tree, and Random Forest.
-2. Then, the team evaluated the effectiveness of each algorithm and identified the best one for predicting purchasing intention.
-3. Based on the analyzed data, the team determined the key factors that contribute the most to predicting the shopping behavior of customers.
-4. Lastly, the team proposed some ways to attract more customers and improve the performance of the e-commerce website in terms of helping customers make purchase decisions.
+
+![image](https://user-images.githubusercontent.com/114046373/235659127-ba083039-f526-4f6a-b8fb-03c46b71d77e.png)
+
 
 
 -- Author Information
